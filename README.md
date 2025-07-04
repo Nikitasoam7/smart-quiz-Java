@@ -45,7 +45,6 @@ Each subject (Java, C++, Aptitude, etc.) has a similar table with questions and 
 📸 Screenshots
 You can add screenshots here after uploading images in your GitHub repo:
 
-scss
 Copy
 Edit
 ![Home Page](screenshots/Role.png)
