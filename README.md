@@ -95,10 +95,10 @@ You can add screenshots here after uploading images in your GitHub repo:
 ![Teacher Login Page](screenshots/Teacher-Login.png)
 
 ### Teacher Home
-![Teacher Home Page](screenshots/Teacher-Home.png)
+![Teacher Home Page](screenshots/Teacher-home.png)
 
 ### Student details
-![Student details Page](screenshots/Student-details.png)
+![Student details Page](screenshots/student-details.png)
 
 ### Student course
 ![Student course Page](screenshots/Student-course.png)
