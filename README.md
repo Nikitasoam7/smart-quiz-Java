@@ -43,7 +43,7 @@ CREATE TABLE python (
   Option4 VARCHAR(255),
   CorrectOption VARCHAR(255)
 );
-
+!
 # 📸 Screenshots
 You can add screenshots here after uploading images in your GitHub repo:
 
@@ -86,4 +86,4 @@ This project is for educational and portfolio purposes. You are free to modify a
 2. **Copy and paste** the entire content above into that file.
 3. GitHub will automatically render the headings, tables, and code nicely.
 
-Let me know if you want to add **screenshots**, **author name**, or **GitHub profile badge**!
+Let me know if you want to add **screenshots**, **author name**, or **GitHub profile badge**
