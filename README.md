@@ -47,6 +47,7 @@ CREATE TABLE python (
   Option4 VARCHAR(255),
   CorrectOption VARCHAR(255)
 );
+```
 ---
 
 # 📦 How to Run the Project
@@ -56,6 +57,7 @@ CREATE TABLE python (
 
   javac Role.java
   java Role
+
 3.Create required tables using MySQL Workbench (manually or by importing a .sql file).
 4.Ensure your database connection in Java (Connection, DriverManager, etc.) matches your MySQL setup.
 
