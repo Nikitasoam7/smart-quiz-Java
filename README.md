@@ -1,7 +1,5 @@
 # 📚 Smart Quiz Application
 
-# 📚 Smart Quiz Application
-
 ![GitHub followers](https://img.shields.io/github/followers/Nikitasoam7?label=Follow&style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Nikitasoam7/smart-quiz-Java?style=social)
 
@@ -49,6 +47,7 @@ CREATE TABLE python (
   Option4 VARCHAR(255),
   CorrectOption VARCHAR(255)
 );
+---
 
 # 📦 How to Run the Project
 
@@ -100,3 +99,11 @@ You can add screenshots here after uploading images in your GitHub repo:
 
 ### Student Window
 ![Student Page](screenshots/Student.png)
+
+
+---
+
+## 👤 Author
+
+**Nikita Soam**  
+[GitHub Profile](https://github.com/Nikitasoam7)
