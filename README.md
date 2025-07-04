@@ -1,5 +1,11 @@
 # 📚 Smart Quiz Application
 
+# 📚 Smart Quiz Application
+
+![GitHub followers](https://img.shields.io/github/followers/Nikitasoam7?label=Follow&style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Nikitasoam7/smart-quiz-Java?style=social)
+
+
 A Java-based quiz system built using basic tools like **Notepad** and **MySQL Workbench**. It supports two user roles — **Teacher** and **Student** — and enables secure quiz creation, participation, and result tracking for multiple courses.
 
 ---
@@ -43,21 +49,6 @@ CREATE TABLE python (
   Option4 VARCHAR(255),
   CorrectOption VARCHAR(255)
 );
-!
-# 📸 Screenshots
-You can add screenshots here after uploading images in your GitHub repo:
-
-
-![Home Page](screenshots/Role.png)
-![Student Page](screenshots/Student.png)
-![Teacher Login Page](screenshots/Teacher Login.png)
-![Teacher Home Page](screenshots/Teacher Home.png)
-![Student details Page](screenshots/Student details.png)
-![Student course Page](screenshots/Student course.png)
-![quiz test Page](screenshots/quiz test.png)
-![Rules Page](screenshots/Rules.png)
-![Add question Page](screenshots/Add question.png)
-![score Page](screenshots/score.png)
 
 # 📦 How to Run the Project
 
@@ -86,4 +77,26 @@ This project is for educational and portfolio purposes. You are free to modify a
 2. **Copy and paste** the entire content above into that file.
 3. GitHub will automatically render the headings, tables, and code nicely.
 
-Let me know if you want to add **screenshots**, **author name**, or **GitHub profile badge**
+
+# 📸 Screenshots
+You can add screenshots here after uploading images in your GitHub repo:
+
+
+![Home Page](screenshots/Role.png)
+![Student Page](screenshots/Student.png)
+![Teacher Login Page](screenshots/Teacher Login.png)
+![Teacher Home Page](screenshots/Teacher Home.png)
+![Student details Page](screenshots/Student details.png)
+![Student course Page](screenshots/Student course.png)
+![quiz test Page](screenshots/quiz test.png)
+![Rules Page](screenshots/Rules.png)
+![Add question Page](screenshots/Add question.png)
+![score Page](screenshots/score.png)
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/Role.png)
+
+### Student Window
+![Student Page](screenshots/Student.png)
