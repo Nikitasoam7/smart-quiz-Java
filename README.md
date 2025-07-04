@@ -83,17 +83,6 @@ This project is for educational and portfolio purposes. You are free to modify a
 You can add screenshots here after uploading images in your GitHub repo:
 
 
-![Home Page](screenshots/Role.png)
-![Student Page](screenshots/Student.png)
-![Teacher Login Page](screenshots/Teacher Login.png)
-![Teacher Home Page](screenshots/Teacher Home.png)
-![Student details Page](screenshots/Student details.png)
-![Student course Page](screenshots/Student course.png)
-![quiz test Page](screenshots/quiz test.png)
-![Rules Page](screenshots/Rules.png)
-![Add question Page](screenshots/Add question.png)
-![score Page](screenshots/score.png)
-
 ## 📸 Screenshots
 
 ### Home Page
@@ -101,6 +90,30 @@ You can add screenshots here after uploading images in your GitHub repo:
 
 ### Student Window
 ![Student Page](screenshots/Student.png)
+
+### Teacher Login
+![Teacher Login Page](screenshots/Teacher-Login.png)
+
+### Teacher Home
+![Teacher Home Page](screenshots/Teacher-Home.png)
+
+### Student details
+![Student details Page](screenshots/Student-details.png)
+
+### Student course
+![Student course Page](screenshots/Student-course.png)
+
+### quiz test
+![quiz test Page](screenshots/quiz-test.png)
+
+### Rules
+![Rules Page](screenshots/Rules.png)
+
+### Add question
+![Add question Page](screenshots/Add-question.png)
+
+### score Page
+![score Page](screenshots/score.png)
 
 
 ---
