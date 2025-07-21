@@ -36,7 +36,7 @@ public class QuizTest {
 
 	try{
 	Class.forName("com.mysql.jdbc.Driver");
-	connection=DriverManager.getConnection("jdbc:mysql://localhost/quiz","root","");
+	connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/quiz","root","Mysql@77");
 	 // Construct the SQL query with the table name directly
          String query = "SELECT MAX(QuestionNo) FROM " + course;
          prepareStatement = connection.prepareStatement(query);

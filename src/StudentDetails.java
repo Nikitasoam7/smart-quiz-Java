@@ -36,7 +36,7 @@ public class StudentDetails extends JFrame {
 	try
 {
 Class.forName("com.mysql.jdbc.Driver");
-Connection conn=DriverManager.getConnection("jdbc:mysql://localhost/quiz","root","");
+Connection conn=DriverManager.getConnection("jdbc:mysql://localhost/quiz","root","Mysql@77");
 PreparedStatement st=conn.prepareStatement("select * from Student");
 ResultSet rs=st.executeQuery();
 while(rs.next())

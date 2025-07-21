@@ -1,6 +1,5 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
 import java.sql.*;
 
 public class QuestionnaireGUI extends JFrame {
@@ -177,7 +176,7 @@ public class QuestionnaireGUI extends JFrame {
             Class.forName("com.mysql.jdbc.Driver");
 
             // Establish a connection to the database
-            connection = DriverManager.getConnection("jdbc:mysql://localhost/quiz","root","");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost/quiz","root","Mysql@77");
 
             // Create a parameterized SQL query to insert a new question
             String sql = "INSERT INTO " + tableName + " (Question, option1, option2, option3, option4, correctOption) VALUES (?, ?, ?, ?, ?, ?)";

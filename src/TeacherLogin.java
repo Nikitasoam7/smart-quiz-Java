@@ -70,7 +70,7 @@ b2.addActionListener(this);
             @Override
             public void keyTyped(KeyEvent e) {
                 if (p.getText().length() >= 15) {
-                    e.consume(); // If length is greater than or equal to 10, ignore further input
+                    e.consume(); // If length is greater than or equal to 15, ignore further input
                 }
             }
         });
@@ -78,7 +78,7 @@ b2.addActionListener(this);
 //connection with databse
 try{
 	Class.forName("com.mysql.jdbc.Driver");
-	connection=DriverManager.getConnection("jdbc:mysql://localhost/quiz","root","");
+	connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/quiz","root","Mysql@77");
 
 }
 catch(Exception e)
