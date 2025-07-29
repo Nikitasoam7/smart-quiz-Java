@@ -43,7 +43,7 @@ while(rs.next())
 {
 String name=rs.getString(1);
 String course=rs.getString(2);
- int score=rs.getInt(3);
+int score=rs.getInt(3);
 
 model.addRow(new Object[]{name,course,score});
 }

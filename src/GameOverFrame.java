@@ -43,7 +43,7 @@ public class GameOverFrame extends JFrame {
 
         try{ 
 		Class.forName("com.mysql.jdbc.Driver");
-		Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/quiz", "root", "");
+		Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/quiz", "root", "Mysql@77");
              PreparedStatement preparedStatement = connection.prepareStatement(query);
 
             preparedStatement.setString(1, playerName);
